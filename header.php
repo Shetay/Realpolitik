@@ -14,48 +14,6 @@ if(isset($_SESSION['uidtrw'])){
 
 
 
- <?php if(isset($_SESSION['uidtrw']) && $user['donor']==2){}else{  ?>
-            
-         <div id="adleft">  <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- admenu responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0614650938348917"
-     data-ad-slot="5923039016"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script> </center></div>
-        
-           <div id="adright"> <center>
-         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- admenu responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0614650938348917"
-     data-ad-slot="5923039016"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script> </center></div>
-        <?php } 
-    ?>  
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <head>
         <title>Realpolitik - a multiplayer political simulation game</title>
         <link href="style.css" rel="stylesheet" type="text/css"/>
