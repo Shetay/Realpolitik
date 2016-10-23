@@ -11,7 +11,7 @@ an actually working game by Shetay and other cool dudes on <a href="https://gith
 
 <br /><br />
 
-contact me at github, discord or shety19@gmail.com 
+contact me at github, <a href="https://discord.gg/8w2b9HJ">discord</a> or shety19@gmail.com 
 
 <?php
 
