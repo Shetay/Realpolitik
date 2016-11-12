@@ -1,20 +1,12 @@
 <?php
 include("functions.php");
 connect();
-
-include_once("analyticstracking.php");
-
 if(isset($_SESSION['uidtrw'])){
         include("safe.php"); }
-
 ?>
 <html>
 
-
-
-
-
-    <head>
+      <head>
         <title>Realpolitik - a multiplayer political simulation game</title>
         <link href="style.css" rel="stylesheet" type="text/css"/>
         <link rel="shortcut icon" href="/favicon.ico" type="image/ico">
