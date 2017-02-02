@@ -9,27 +9,7 @@ if(isset($_SESSION['uidtrw'])){
 
 ?>
 <html>
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <head>
+      <head>
         <title>Realpolitik - a multiplayer political simulation game</title>
         <link href="style.css" rel="stylesheet" type="text/css"/>
         <link rel="shortcut icon" href="/favicon.ico" type="image/ico">
@@ -449,9 +429,4 @@ $numnews=mysql_num_rows($newslist);
             
             
             
-            
-            
-     <!--<center><div class="alert alert-error">
-  BLOC is transferring to a new and significantly better server! However, there is a significant chance any action taken while this alert is up will not be saved.
-</div></center>-->
-    
+         
